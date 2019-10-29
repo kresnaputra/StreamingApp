@@ -2,7 +2,7 @@
 
 Tool for streaming anime
 
-[Example](images/example.gif)
+![Example](images/example.gif)
 
 ### Prerequisites
 
