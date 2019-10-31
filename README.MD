@@ -2,6 +2,8 @@
 
 Tool for streaming anime
 
+![Example](images/example.gif)
+
 ### Prerequisites
 
 Tools you need to run this app
