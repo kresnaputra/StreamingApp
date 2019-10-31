@@ -8,6 +8,8 @@ module.exports = function convert(title) {
       return 'dr-stone';
     case 'boku':
       return 'boku-no-hero-academia-s4';
+    case 'nanatsu':
+      return 'nanatsu-no-taizai-s3';
     }
 }
 
